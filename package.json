@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-api-rest-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/fabianjaimes84/api-rest-javascript-movies#readme",
+  "bugs": {
+    "url": "https://github.com/fabianjaimes84/api-rest-javascript-movies/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianjaimes84/api-rest-javascript-movies.git"
+  },
+  "license": "MIT",
+  "author": "@fabianjaimes",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
